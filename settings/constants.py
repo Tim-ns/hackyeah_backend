@@ -14,7 +14,7 @@ class RedisConfig:
 
 
 class AppConfig:
-    CLIENT_MAX_SIZE = 5
+    CLIENT_MAX_SIZE = 1024 * 1024  # 1MB
     FAILED_MESSAGE_MAX_RETRIES = 5
     FAILED_MESSAGE_DELAY_SEC = 1
     CORS = {
