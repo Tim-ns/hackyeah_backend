@@ -12,4 +12,4 @@ async def calculate_best_route(request, validated_data, *args, **kwargs):
     route = "some_calculations"
     redis = request.app[const.REDIS_CONNECTION_NAME]
     await redis.set(const.AI_REDIS_KEY, 'test_value')
-    return web.json_response(data={"data": route}, status=200)
+    return web.json_response(data={"data": [route]}, status=200)
