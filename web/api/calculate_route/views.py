@@ -15,4 +15,4 @@ async def calculate_best_route(request, validated_data, *args, **kwargs):
     resp = {
         "data": route,
     }
-    return web.json_response(data=resp, status=200)
+    return web.json_response(data={"data": resp}, status=200)
