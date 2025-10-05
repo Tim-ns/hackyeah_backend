@@ -1,0 +1,5 @@
+<additional>
+    <edgeData id="edge_data" file="edge_features.xml" freq="300" 
+              time-range="0, 3600"
+              speed="true" flow="true" density="true" waitingTime="true"/>
+</additional>

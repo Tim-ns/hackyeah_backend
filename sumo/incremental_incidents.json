@@ -1,0 +1,24 @@
+[
+  {
+    "id": "incident_001",
+    "timestamp": "2025-10-05T03:49:12.337670",
+    "severity": 0.8,
+    "location": {
+      "lat": 50.0647,
+      "lon": 19.9445
+    },
+    "type": "accident",
+    "processed_at": "2025-10-05T03:49:12.337670"
+  },
+  {
+    "id": "incident_002",
+    "timestamp": "2025-10-05T03:49:12.337670",
+    "severity": 0.3,
+    "location": {
+      "lat": 50.065,
+      "lon": 19.945
+    },
+    "type": "construction",
+    "processed_at": "2025-10-05T03:49:12.337670"
+  }
+]

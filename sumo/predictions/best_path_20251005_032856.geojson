@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          12364,
+          31390,
+          20800,
+          23069,
+          26958,
+          21198,
+          24667,
+          24447
+        ]
+      },
+      "properties": {
+        "path_id": "best_path_20251005_032856",
+        "score": 0.5387064814567566,
+        "rank": 1,
+        "prediction_time": "2025-10-05T03:28:56.565426"
+      }
+    }
+  ]
+}

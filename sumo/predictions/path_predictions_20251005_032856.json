@@ -1,0 +1,154 @@
+{
+  "timestamp": "2025-10-05T03:28:56.565426",
+  "best_path_index": 1,
+  "best_path_score": 0.5387064814567566,
+  "path_scores": [
+    0.5400180220603943,
+    0.5387064814567566,
+    0.5397698879241943
+  ],
+  "incident_predictions": [
+    -0.23904602229595184,
+    -0.24022984504699707,
+    -0.2390695959329605
+  ],
+  "path_rankings": [
+    1,
+    2,
+    0
+  ],
+  "path_metadata": [
+    {
+      "coordinates": [
+        [
+          19.9445,
+          50.0647
+        ],
+        [
+          19.945,
+          50.065
+        ],
+        [
+          19.9455,
+          50.0655
+        ],
+        [
+          19.946,
+          50.066
+        ],
+        [
+          19.9465,
+          50.0665
+        ],
+        [
+          19.947,
+          50.067
+        ],
+        [
+          19.9475,
+          50.0675
+        ],
+        [
+          19.948,
+          50.068
+        ]
+      ],
+      "properties": {
+        "route_id": "main_street",
+        "name": "Main Street Route",
+        "description": "Primary route via main streets",
+        "estimated_time": "15 minutes",
+        "distance": "2.5 km"
+      },
+      "path_id": 0
+    },
+    {
+      "coordinates": [
+        [
+          19.9445,
+          50.0647
+        ],
+        [
+          19.95,
+          50.07
+        ],
+        [
+          19.955,
+          50.075
+        ],
+        [
+          19.96,
+          50.08
+        ],
+        [
+          19.965,
+          50.085
+        ],
+        [
+          19.97,
+          50.09
+        ],
+        [
+          19.975,
+          50.095
+        ],
+        [
+          19.98,
+          50.1
+        ]
+      ],
+      "properties": {
+        "route_id": "highway",
+        "name": "Highway Route",
+        "description": "Fast route via highway",
+        "estimated_time": "12 minutes",
+        "distance": "3.2 km"
+      },
+      "path_id": 1
+    },
+    {
+      "coordinates": [
+        [
+          19.9445,
+          50.0647
+        ],
+        [
+          19.943,
+          50.066
+        ],
+        [
+          19.9415,
+          50.0675
+        ],
+        [
+          19.94,
+          50.069
+        ],
+        [
+          19.9385,
+          50.0705
+        ],
+        [
+          19.937,
+          50.072
+        ],
+        [
+          19.9355,
+          50.0735
+        ],
+        [
+          19.934,
+          50.075
+        ]
+      ],
+      "properties": {
+        "route_id": "residential",
+        "name": "Residential Route",
+        "description": "Quiet route through residential areas",
+        "estimated_time": "18 minutes",
+        "distance": "2.1 km"
+      },
+      "path_id": 2
+    }
+  ]
+}

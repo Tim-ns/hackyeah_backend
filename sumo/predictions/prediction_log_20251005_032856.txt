@@ -1,0 +1,12 @@
+Path Prediction Results - 2025-10-05T03:28:56.565426
+==================================================
+
+Best Path Index: 1
+Best Path Score: 0.5387
+Total Paths Analyzed: 3
+
+Path Rankings:
+--------------------
+Rank 1: Path 1 (Score: 0.5387, Incidents: -0.2402)
+Rank 2: Path 2 (Score: 0.5398, Incidents: -0.2391)
+Rank 3: Path 0 (Score: 0.5400, Incidents: -0.2390)

@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="krakow_traffic.net.xml"/>
+        <route-files value="krakow_traffic.rou.xml"/>
+        <additional-files value="edge_data.add.xml"/>
+    </input>
+    <time>
+        <end value="3600"/>
+    </time>
+</configuration>

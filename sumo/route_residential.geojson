@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [19.9445, 50.0647],
+          [19.9430, 50.0660],
+          [19.9415, 50.0675],
+          [19.9400, 50.0690],
+          [19.9385, 50.0705],
+          [19.9370, 50.0720],
+          [19.9355, 50.0735],
+          [19.9340, 50.0750]
+        ]
+      },
+      "properties": {
+        "route_id": "residential",
+        "name": "Residential Route",
+        "description": "Quiet route through residential areas",
+        "estimated_time": "18 minutes",
+        "distance": "2.1 km"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [19.9445, 50.0647],
+          [19.9500, 50.0700],
+          [19.9550, 50.0750],
+          [19.9600, 50.0800],
+          [19.9650, 50.0850],
+          [19.9700, 50.0900],
+          [19.9750, 50.0950],
+          [19.9800, 50.1000]
+        ]
+      },
+      "properties": {
+        "route_id": "highway",
+        "name": "Highway Route",
+        "description": "Fast route via highway",
+        "estimated_time": "12 minutes",
+        "distance": "3.2 km"
+      }
+    }
+  ]
+}
